@@ -1,10 +1,11 @@
-# protoo
+# protoo-server
 
 [![][npm-shield-protoo-server]][npm-protoo-server]
-[![][npm-shield-protoo-client]][npm-protoo-client]
 [![][travis-ci-shield-protoo]][travis-ci-protoo]
 
-Minimalist and extensible Node.js signaling framework for multi-party Real-Time applications.
+**protoo** is a minimalist and extensible Node.js signaling framework for multi-party Real-Time Communication applications.
+
+This is the **protoo** server side Node.js module.
 
 
 ## Website and documentation
@@ -29,15 +30,13 @@ Iñaki Baz Castillo ([@ibc](https://github.com/ibc/) at Github)
 
 ## License
 
-[MIT](./LICENSE)
+MIT
 
 
 
 
 [protoo-website]: https://protoo.versatica.com
 [npm-shield-protoo-server]: https://img.shields.io/npm/v/protoo-server.svg
-[npm-shield-protoo-client]: https://img.shields.io/npm/v/protoo-client.svg
 [npm-protoo-server]: https://npmjs.org/package/protoo-server
-[npm-protoo-client]: https://npmjs.org/package/protoo-client
 [travis-ci-shield-protoo]: https://travis-ci.com/versatica/protoo.svg?branch=master
 [travis-ci-protoo]: https://travis-ci.com/versatica/protoo
